@@ -13,4 +13,10 @@
     <FileVersion>1.0.0</FileVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="ReadMe.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
